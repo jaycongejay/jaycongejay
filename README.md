@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JL</h1>
     <h4 align="center">
       Passionate software developer excelling in the creation of sophisticated
-      user interfaces through cutting-edge web technologies. 🚀✨
+      web application through cutting-edge web technologies. 🚀✨
     </h4>
     <table>
       <thead>
