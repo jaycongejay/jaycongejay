@@ -39,12 +39,6 @@
                 width="40"
                 height="40"
               />
-              <img
-                src="https://www.vectorlogo.zone/logos/graphql/python-icon.svg"
-                alt="python"
-                width="40"
-                height="40"
-              />
             </div>
             <div align="left"> 
               <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
@@ -74,6 +68,12 @@
               />
               <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+                alt="tailwind"
+                width="40"
+                height="40"
+              />
+              <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
                 alt="tailwind"
                 width="40"
                 height="40"
