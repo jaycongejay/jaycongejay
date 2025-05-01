@@ -66,6 +66,12 @@
                 width="40"
                 height="40"
               />
+              <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg.svg"
+                alt="sass"
+                width="40"
+                height="40"
+              />
             </div>
             <div align="left"> 
               <img
