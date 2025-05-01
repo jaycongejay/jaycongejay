@@ -73,7 +73,7 @@
                 height="40"
               />
               <img
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
                 alt="tailwind"
                 width="40"
                 height="40"
