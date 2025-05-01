@@ -67,8 +67,8 @@
                 height="40"
               />
               <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg.svg"
-                alt="sass"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+                alt="tailwindcss"
                 width="40"
                 height="40"
               />
@@ -76,19 +76,19 @@
             <div align="left"> 
               <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                alt="tailwind"
+                alt="python"
                 width="40"
                 height="40"
               />
               <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                alt="tailwind"
+                alt="nodejs"
                 width="40"
                 height="40"
               />
               <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg"
-                alt="tailwind"
+                alt="dynamodb"
                 width="40"
                 height="40"
               />
