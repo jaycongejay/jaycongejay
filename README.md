@@ -73,7 +73,7 @@
                 height="40"
               />
               <img
-                src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
                 alt="tailwind"
                 width="40"
                 height="40"
