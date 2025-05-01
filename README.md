@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm JL</h1>
     <h4 align="center">
-      Passionate front-end developer excelling in the creation of sophisticated
+      Passionate software developer excelling in the creation of sophisticated
       user interfaces through cutting-edge web technologies. 🚀✨
     </h4>
     <table>
@@ -36,6 +36,12 @@
               <img
                 src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
                 alt="graphql"
+                width="40"
+                height="40"
+              />
+              <img
+                src="https://www.vectorlogo.zone/logos/graphql/python-icon.svg"
+                alt="python"
                 width="40"
                 height="40"
               />
